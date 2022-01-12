@@ -4,6 +4,6 @@
 
 🌱 I’m currently studying in the University of Colorad Boulder. I'm currently taking Algorithms, Human Computer Interaction, and Intro to Data Science. 
 
-📫 You can reach me through LinkedIn (https://www.linkedin.com/in/raynersusanto/) or through email at " rayner.susanto@colorado.edu "  
+📫 You can reach me through LinkedIn (https://www.linkedin.com/in/raynersusanto/) or through email at "rayner.susanto@colorado.edu"  
 
 It's a pleasure to meet all of you 😁
