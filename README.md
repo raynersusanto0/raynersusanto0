@@ -1,9 +1,8 @@
-👋 Hi my name is Rayner Aurell Susanto. 
+# Introduction
+## Name: Rayner Aurell Susanto
+## Nationality: Indonesian
+## Tech Stack: C# /.NET and Angular (but trying to do other things too)
+## Hobbies: Gaming (Deadlock and Ravenswatch, lmk if you want to play together), Basketball, the occassional hiking
 
-👀 I’m interested in working on Software Development projects such as Web Applications, Mobile Applications, and Data Science Projects. 
-
-🌱 I’m currently working in Charles Schwab as an Associate Software Engineer
-
-📫 You can reach me through LinkedIn (https://www.linkedin.com/in/raynersusanto/) or through email at "rayner.susanto0@gmail.com"  
-
-It's a pleasure to meet all of you 😁
+# Quote of the Month:
+> When life gives you lemons, it's not life, you probably bought them accidentally
